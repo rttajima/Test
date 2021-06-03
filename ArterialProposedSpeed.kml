@@ -1,0 +1,5170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ArterialProposedSpeed</name>
+    <description/>
+    <Style id="line-00FFFF-5000-normal">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-00FFFF-5000-highlight">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-00FFFF-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-00FFFF-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-00FFFF-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-5000-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-5000-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>50 km/h Collector / Arterial</name>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.251737,53.676484,0
+            -113.251733,53.676416,0
+            -113.251725,53.676347,0
+            -113.251713,53.676278,0
+            -113.251698,53.67621,0
+            -113.251678,53.676142,0
+            -113.251654,53.676074,0
+            -113.251626,53.676007,0
+            -113.251595,53.675941,0
+            -113.251559,53.675875,0
+            -113.25152,53.67581,0
+            -113.251477,53.675746,0
+            -113.251431,53.675683,0
+            -113.25138,53.675621,0
+            -113.251327,53.675559,0
+            -113.251269,53.675499,0
+            -113.250704,53.674979,0
+            -113.25062,53.674902,0
+            -113.25054,53.674823,0
+            -113.250465,53.674742,0
+            -113.250394,53.67466,0
+            -113.250327,53.674577,0
+            -113.250265,53.674493,0
+            -113.250208,53.674407,0
+            -113.250156,53.67432,0
+            -113.250108,53.674233,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.209422,53.711328,0
+            -113.204784,53.712865,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.213067,53.710105,0
+            -113.212767,53.710223,0
+            -113.212462,53.710335,0
+            -113.212151,53.710442,0
+            -113.210829,53.710859,0
+            -113.209768,53.711207,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.251032,53.687393,0
+            -113.251308,53.687331,0
+            -113.251581,53.687265,0
+            -113.25185,53.687193,0
+            -113.252116,53.687117,0
+            -113.252377,53.687036,0
+            -113.252634,53.68695,0
+            -113.252765,53.686895,0
+            -113.252893,53.686837,0
+            -113.253017,53.686777,0
+            -113.253138,53.686715,0
+            -113.253256,53.68665,0
+            -113.253369,53.686582,0
+            -113.253479,53.686513,0
+            -113.253585,53.686441,0
+            -113.253687,53.686368,0
+            -113.253785,53.686292,0
+            -113.253878,53.686215,0
+            -113.253967,53.686136,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.250596,53.687472,0
+            -113.250333,53.687525,0
+            -113.250073,53.687584,0
+            -113.249816,53.687648,0
+            -113.249564,53.687716,0
+            -113.249315,53.68779,0
+            -113.248358,53.68812,0
+            -113.247033,53.688547,0
+            -113.244695,53.689332,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.20274,53.698244,0
+            -113.202522,53.6983,0
+            -113.202307,53.698359,0
+            -113.202096,53.698423,0
+            -113.201888,53.698491,0
+            -113.201684,53.698562,0
+            -113.201483,53.698638,0
+            -113.201262,53.698717,0
+            -113.201045,53.698801,0
+            -113.200833,53.698889,0
+            -113.200626,53.698982,0
+            -113.200426,53.699079,0
+            -113.200142,53.69922,0
+            -113.199865,53.699366,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.213246,53.693195,0
+            -113.212579,53.693319,0
+            -113.212403,53.693352,0
+            -113.212229,53.69339,0
+            -113.212057,53.69343,0
+            -113.211888,53.693474,0
+            -113.211721,53.693522,0
+            -113.211557,53.693573,0
+            -113.211446,53.693605,0
+            -113.211336,53.69364,0
+            -113.211229,53.693676,0
+            -113.211123,53.693715,0
+            -113.21102,53.693756,0
+            -113.210919,53.693799,0
+            -113.21082,53.693843,0
+            -113.210724,53.69389,0
+            -113.210502,53.694005,0
+            -113.210286,53.694125,0
+            -113.210076,53.694248,0
+            -113.209873,53.694375,0
+            -113.209795,53.694432,0
+            -113.20972,53.69449,0
+            -113.209648,53.69455,0
+            -113.20958,53.69461,0
+            -113.209514,53.694672,0
+            -113.209452,53.694736,0
+            -113.209393,53.6948,0
+            -113.209338,53.694865,0
+            -113.209014,53.695212,0
+            -113.208711,53.695566,0
+            -113.208268,53.696106,0
+            -113.208178,53.696221,0
+            -113.208082,53.696336,0
+            -113.207981,53.696448,0
+            -113.207874,53.696559,0
+            -113.207762,53.696667,0
+            -113.207683,53.696741,0
+            -113.2076,53.696813,0
+            -113.207512,53.696884,0
+            -113.207421,53.696953,0
+            -113.207326,53.697019,0
+            -113.207227,53.697084,0
+            -113.207124,53.697147,0
+            -113.207018,53.697208,0
+            -113.206909,53.697267,0
+            -113.206795,53.697324,0
+            -113.206677,53.69738,0
+            -113.206557,53.697433,0
+            -113.206434,53.697484,0
+            -113.206308,53.697532,0
+            -113.206179,53.697578,0
+            -113.206048,53.697622,0
+            -113.205915,53.697663,0
+            -113.20578,53.697702,0
+            -113.205525,53.697762,0
+            -113.205267,53.697817,0
+            -113.205006,53.697866,0
+            -113.204742,53.69791,0
+            -113.20332,53.698173,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.238951,53.688491,0
+            -113.236293,53.68631,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.221658,53.701234,0
+            -113.221633,53.701281,0
+            -113.22161,53.701329,0
+            -113.22159,53.701377,0
+            -113.221572,53.701425,0
+            -113.221558,53.701474,0
+            -113.221546,53.701523,0
+            -113.221537,53.701572,0
+            -113.221531,53.701622,0
+            -113.221528,53.701671,0
+            -113.221514,53.704244,0
+            -113.221512,53.704277,0
+            -113.221513,53.704311,0
+            -113.221515,53.704345,0
+            -113.22152,53.704379,0
+            -113.221526,53.704413,0
+            -113.221535,53.704446,0
+            -113.221545,53.704479,0
+            -113.221558,53.704512,0
+            -113.221572,53.704545,0
+            -113.221588,53.704578,0
+            -113.221607,53.70461,0
+            -113.221627,53.704642,0
+            -113.221649,53.704673,0
+            -113.221686,53.704709,0
+            -113.221725,53.704745,0
+            -113.221766,53.70478,0
+            -113.221809,53.704814,0
+            -113.221853,53.704847,0
+            -113.221899,53.70488,0
+            -113.221947,53.704911,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.222079,53.699557,0
+            -113.222119,53.6996,0
+            -113.222157,53.699643,0
+            -113.222193,53.699687,0
+            -113.222225,53.699733,0
+            -113.222255,53.699778,0
+            -113.222282,53.699824,0
+            -113.222307,53.699871,0
+            -113.222329,53.699919,0
+            -113.222348,53.699966,0
+            -113.222364,53.700014,0
+            -113.222369,53.700045,0
+            -113.222372,53.700076,0
+            -113.222373,53.700106,0
+            -113.222372,53.700137,0
+            -113.22237,53.700168,0
+            -113.222365,53.700198,0
+            -113.222359,53.700229,0
+            -113.222352,53.700259,0
+            -113.222342,53.700289,0
+            -113.222331,53.700319,0
+            -113.222317,53.700349,0
+            -113.222303,53.700378,0
+            -113.222286,53.700407,0
+            -113.222242,53.70047,0
+            -113.222194,53.700531,0
+            -113.222142,53.700591,0
+            -113.222087,53.700651,0
+            -113.222029,53.700709,0
+            -113.221926,53.700838,0
+            -113.22183,53.700968,0
+            -113.221741,53.7011,0
+            -113.221658,53.701234,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.190149,53.706038,0
+            -113.187927,53.705085,0
+            -113.18783,53.705041,0
+            -113.187731,53.704999,0
+            -113.18763,53.704959,0
+            -113.187526,53.704921,0
+            -113.18742,53.704886,0
+            -113.187313,53.704852,0
+            -113.187203,53.704821,0
+            -113.187092,53.704792,0
+            -113.186979,53.704765,0
+            -113.186865,53.70474,0
+            -113.186749,53.704718,0
+            -113.186632,53.704698,0
+            -113.186514,53.70468,0
+            -113.186395,53.704665,0
+            -113.186276,53.704652,0
+            -113.186155,53.704642,0
+            -113.186034,53.704634,0
+            -113.185913,53.704628,0
+            -113.185791,53.704625,0
+            -113.18567,53.704624,0
+            -113.184203,53.704621,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.208894,53.70545,0
+            -113.208103,53.704617,0
+            -113.207335,53.7038,0
+            -113.207088,53.703525,0
+            -113.206856,53.703245,0
+            -113.206639,53.702961,0
+            -113.206552,53.702825,0
+            -113.206458,53.702691,0
+            -113.206357,53.702559,0
+            -113.20625,53.702429,0
+            -113.206136,53.702301,0
+            -113.205955,53.702097,0
+            -113.205763,53.701898,0
+            -113.205562,53.701701,0
+            -113.20535,53.701509,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.204751,53.701201,0
+            -113.204665,53.701131,0
+            -113.204583,53.701059,0
+            -113.204506,53.700985,0
+            -113.204433,53.70091,0
+            -113.204364,53.700834,0
+            -113.204299,53.700756,0
+            -113.204239,53.700677,0
+            -113.204183,53.700597,0
+            -113.204132,53.700516,0
+            -113.204085,53.700433,0
+            -113.204044,53.70035,0
+            -113.204007,53.700267,0
+            -113.203975,53.700182,0
+            -113.203878,53.699947,0
+            -113.203792,53.69971,0
+            -113.203719,53.699471,0
+            -113.203657,53.699232,0
+            -113.2036,53.699115,0
+            -113.203536,53.699,0
+            -113.203466,53.698887,0
+            -113.20339,53.698774,0
+            -113.203308,53.698663,0
+            -113.20322,53.698554,0
+            -113.203126,53.698447,0
+            -113.203026,53.698341,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.219482,53.706573,0
+            -113.222098,53.705133,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.228928,53.701047,0
+            -113.222399,53.704952,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.231316,53.699563,0
+            -113.22916,53.70084,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.219175,53.706759,0
+            -113.214409,53.709593,0
+            -113.214336,53.709635,0
+            -113.21426,53.709676,0
+            -113.214181,53.709715,0
+            -113.2141,53.709752,0
+            -113.214017,53.709788,0
+            -113.213932,53.709822,0
+            -113.213845,53.709854,0
+            -113.2134,53.710011,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.204799,53.71519,0
+            -113.204166,53.715397,0
+            -113.204028,53.715426,0
+            -113.203888,53.715453,0
+            -113.203747,53.715477,0
+            -113.203604,53.715497,0
+            -113.203461,53.715515,0
+            -113.203316,53.71553,0
+            -113.200507,53.715851,0
+            -113.200376,53.715865,0
+            -113.200245,53.715877,0
+            -113.200114,53.715887,0
+            -113.199981,53.715894,0
+            -113.199849,53.715899,0
+            -113.19704,53.715885,0
+            -113.196744,53.715879,0
+            -113.196448,53.71588,0
+            -113.196152,53.715886,0
+            -113.195857,53.715899,0
+            -113.195562,53.715918,0
+            -113.195269,53.715942,0
+            -113.194977,53.715973,0
+            -113.193499,53.716221,0
+            -113.19203,53.716487,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.218113,53.691725,0
+            -113.216533,53.692419,0
+            -113.216338,53.692496,0
+            -113.216138,53.69257,0
+            -113.215934,53.692639,0
+            -113.215726,53.692704,0
+            -113.215515,53.692764,0
+            -113.2153,53.692821,0
+            -113.215081,53.692872,0
+            -113.214831,53.692925,0
+            -113.214578,53.692973,0
+            -113.214323,53.693016,0
+            -113.214065,53.693053,0
+            -113.213805,53.693086,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.19795,53.704118,0
+            -113.197956,53.704146,0
+            -113.19796,53.704175,0
+            -113.197963,53.704203,0
+            -113.197963,53.704232,0
+            -113.197963,53.70426,0
+            -113.19796,53.704289,0
+            -113.197956,53.704318,0
+            -113.197951,53.704346,0
+            -113.197943,53.704374,0
+            -113.197934,53.704403,0
+            -113.197924,53.704431,0
+            -113.197911,53.704458,0
+            -113.197898,53.704486,0
+            -113.197882,53.704513,0
+            -113.197865,53.70454,0
+            -113.197847,53.704566,0
+            -113.197827,53.704592,0
+            -113.197805,53.704618,0
+            -113.197783,53.704643,0
+            -113.197758,53.704668,0
+            -113.197732,53.704692,0
+            -113.197705,53.704716,0
+            -113.197677,53.704739,0
+            -113.197647,53.704762,0
+            -113.194152,53.707588,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.250319,53.682592,0
+            -113.250348,53.682438,0
+            -113.250386,53.682285,0
+            -113.250432,53.682133,0
+            -113.250486,53.681982,0
+            -113.250549,53.681832,0
+            -113.25142,53.679435,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.251483,53.679272,0
+            -113.251535,53.679159,0
+            -113.25158,53.679046,0
+            -113.25162,53.678932,0
+            -113.251653,53.678817,0
+            -113.25168,53.678701,0
+            -113.251701,53.678585,0
+            -113.251716,53.678469,0
+            -113.251725,53.678353,0
+            -113.251728,53.678236,0
+            -113.251727,53.676719,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.25174,53.684683,0
+            -113.251584,53.684573,0
+            -113.251434,53.684459,0
+            -113.251291,53.684343,0
+            -113.251155,53.684224,0
+            -113.251026,53.684102,0
+            -113.250904,53.683978,0
+            -113.250789,53.683851,0
+            -113.250729,53.683777,0
+            -113.250673,53.683702,0
+            -113.250622,53.683625,0
+            -113.250575,53.683548,0
+            -113.250533,53.68347,0
+            -113.250495,53.68339,0
+            -113.250462,53.683311,0
+            -113.250434,53.68323,0
+            -113.250411,53.683149,0
+            -113.250392,53.683068,0
+            -113.250378,53.682986,0
+            -113.250369,53.682904,0
+            -113.250364,53.682822,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.253894,53.685983,0
+            -113.253758,53.685933,0
+            -113.253625,53.685881,0
+            -113.253495,53.685826,0
+            -113.253367,53.685769,0
+            -113.253243,53.68571,0
+            -113.253122,53.685648,0
+            -113.253004,53.685584,0
+            -113.25289,53.685518,0
+            -113.252772,53.685447,0
+            -113.252659,53.685373,0
+            -113.25255,53.685297,0
+            -113.252446,53.685219,0
+            -113.252346,53.685139,0
+            -113.251944,53.684826,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.1917,53.716451,0
+            -113.189619,53.714213,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.264018,53.683932,0
+            -113.264113,53.683848,0
+            -113.264204,53.683763,0
+            -113.26429,53.683675,0
+            -113.264371,53.683586,0
+            -113.264447,53.683495,0
+            -113.264518,53.683403,0
+            -113.264584,53.68331,0
+            -113.264644,53.683215,0
+            -113.2647,53.683119,0
+            -113.264749,53.683022,0
+            -113.264794,53.682924,0
+            -113.264833,53.682826,0
+            -113.264866,53.682726,0
+            -113.264894,53.682626,0
+            -113.264916,53.682526,0
+            -113.264932,53.682425,0
+            -113.265014,53.678882,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.263788,53.684089,0
+            -113.263657,53.684176,0
+            -113.263522,53.684261,0
+            -113.263383,53.684343,0
+            -113.263239,53.684423,0
+            -113.263091,53.6845,0
+            -113.262939,53.684573,0
+            -113.262784,53.684644,0
+            -113.261382,53.685124,0
+            -113.261136,53.685201,0
+            -113.260885,53.685273,0
+            -113.260631,53.68534,0
+            -113.260374,53.685403,0
+            -113.260113,53.685461,0
+            -113.258714,53.685764,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.25838,53.685842,0
+            -113.256645,53.686211,0
+            -113.2566,53.686225,0
+            -113.256554,53.686238,0
+            -113.256508,53.686249,0
+            -113.25646,53.68626,0
+            -113.256412,53.68627,0
+            -113.256364,53.686279,0
+            -113.256315,53.686287,0
+            -113.256266,53.686295,0
+            -113.256216,53.686301,0
+            -113.256166,53.686306,0
+            -113.256115,53.68631,0
+            -113.256065,53.686313,0
+            -113.256014,53.686315,0
+            -113.255963,53.686316,0
+            -113.255913,53.686316,0
+            -113.255862,53.686314,0
+            -113.255811,53.686312,0
+            -113.255761,53.686309,0
+            -113.25571,53.686305,0
+            -113.25566,53.6863,0
+            -113.255611,53.686294,0
+            -113.255561,53.686287,0
+            -113.255512,53.686279,0
+            -113.255386,53.68627,0
+            -113.25526,53.686259,0
+            -113.255135,53.686245,0
+            -113.255011,53.686229,0
+            -113.254888,53.68621,0
+            -113.254765,53.686189,0
+            -113.254644,53.686166,0
+            -113.254525,53.686141,0
+            -113.254406,53.686113,0
+            -113.25429,53.686083,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.19425,53.703205,0
+            -113.193266,53.70269,0
+            -113.193223,53.702671,0
+            -113.193179,53.702652,0
+            -113.193133,53.702635,0
+            -113.193087,53.702618,0
+            -113.19304,53.702603,0
+            -113.192992,53.702588,0
+            -113.192943,53.702574,0
+            -113.192893,53.702562,0
+            -113.192842,53.70255,0
+            -113.192791,53.702539,0
+            -113.19274,53.70253,0
+            -113.192687,53.702521,0
+            -113.192635,53.702514,0
+            -113.192582,53.702508,0
+            -113.192528,53.702502,0
+            -113.192474,53.702498,0
+            -113.19242,53.702495,0
+            -113.192366,53.702494,0
+            -113.192312,53.702493,0
+            -113.192258,53.702493,0
+            -113.192204,53.702495,0
+            -113.184311,53.702482,0
+            -113.184299,53.702481,0
+            -113.184288,53.702481,0
+            -113.184277,53.70248,0
+            -113.184265,53.70248,0
+            -113.184254,53.70248,0
+            -113.184243,53.702481,0
+            -113.184231,53.702481,0
+            -113.18422,53.702482,0
+            -113.184209,53.702483,0
+            -113.184198,53.702485,0
+            -113.184187,53.702486,0
+            -113.184176,53.702488,0
+            -113.184165,53.70249,0
+            -113.184154,53.702492,0
+            -113.184144,53.702495,0
+            -113.184133,53.702498,0
+            -113.184123,53.7025,0
+            -113.184113,53.702504,0
+            -113.184103,53.702507,0
+            -113.184093,53.70251,0
+            -113.184084,53.702514,0
+            -113.184075,53.702518,0
+            -113.184066,53.702522,0
+            -113.184057,53.702526,0
+            -113.184048,53.702531,0
+            -113.18404,53.702535,0
+            -113.184032,53.70254,0
+            -113.184024,53.702545,0
+            -113.184017,53.70255,0
+            -113.18401,53.702556,0
+            -113.184003,53.702561,0
+            -113.183997,53.702567,0
+            -113.18399,53.702572,0
+            -113.183985,53.702578,0
+            -113.183979,53.702584,0
+            -113.183974,53.70259,0
+            -113.183969,53.702596,0
+            -113.183965,53.702602,0
+            -113.183961,53.702609,0
+            -113.183957,53.702615,0
+            -113.183954,53.702622,0
+            -113.183951,53.702628,0
+            -113.183949,53.702635,0
+            -113.183947,53.702641,0
+            -113.183945,53.702648,0
+            -113.183944,53.702655,0
+            -113.183943,53.702661,0
+            -113.183942,53.702668,0
+            -113.183942,53.702675,0
+            -113.183942,53.702682,0
+            -113.183943,53.702688,0
+            -113.183944,53.702695,0
+            -113.183945,53.702702,0
+            -113.183947,53.702708,0
+            -113.183952,53.704527,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.189032,53.713829,0
+            -113.188053,53.713584,0
+            -113.18802,53.713572,0
+            -113.187987,53.713561,0
+            -113.187953,53.71355,0
+            -113.187918,53.71354,0
+            -113.187883,53.713531,0
+            -113.187848,53.713523,0
+            -113.187812,53.713515,0
+            -113.187775,53.713508,0
+            -113.187738,53.713502,0
+            -113.187701,53.713497,0
+            -113.187664,53.713492,0
+            -113.187626,53.713489,0
+            -113.187588,53.713486,0
+            -113.18755,53.713483,0
+            -113.187512,53.713482,0
+            -113.187473,53.713481,0
+            -113.187435,53.713481,0
+            -113.187397,53.713482,0
+            -113.187359,53.713484,0
+            -113.187321,53.713486,0
+            -113.187283,53.713489,0
+            -113.187245,53.713493,0
+            -113.187208,53.713498,0
+            -113.187171,53.713504,0
+            -113.187134,53.71351,0
+            -113.187098,53.713517,0
+            -113.187062,53.713525,0
+            -113.187026,53.713533,0
+            -113.186991,53.713543,0
+            -113.186957,53.713553,0
+            -113.186923,53.713563,0
+            -113.18689,53.713575,0
+            -113.186857,53.713587,0
+            -113.186826,53.713599,0
+            -113.186795,53.713613,0
+            -113.186764,53.713627,0
+            -113.186735,53.713641,0
+            -113.186707,53.713656,0
+            -113.186679,53.713672,0
+            -113.186652,53.713688,0
+            -113.186627,53.713705,0
+            -113.186602,53.713723,0
+            -113.186578,53.71374,0
+            -113.18616,53.71406,0
+            -113.186127,53.714086,0
+            -113.186093,53.714112,0
+            -113.186057,53.714138,0
+            -113.186019,53.714162,0
+            -113.185981,53.714186,0
+            -113.185941,53.714209,0
+            -113.185899,53.714231,0
+            -113.185856,53.714252,0
+            -113.185813,53.714272,0
+            -113.185768,53.714292,0
+            -113.185721,53.71431,0
+            -113.185674,53.714328,0
+            -113.185626,53.714344,0
+            -113.185577,53.71436,0
+            -113.185527,53.714374,0
+            -113.185476,53.714388,0
+            -113.185424,53.7144,0
+            -113.185372,53.714411,0
+            -113.185319,53.714421,0
+            -113.185266,53.714431,0
+            -113.185212,53.714439,0
+            -113.185157,53.714445,0
+            -113.185102,53.714451,0
+            -113.185047,53.714456,0
+            -113.184992,53.714459,0
+            -113.184936,53.714462,0
+            -113.184881,53.714463,0
+            -113.184825,53.714463,0
+            -113.184769,53.714462,0
+            -113.184714,53.71446,0
+            -113.184659,53.714456,0
+            -113.177414,53.714453,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.208851,53.682262,0
+            -113.207087,53.682262,0
+            -113.20692,53.682264,0
+            -113.206754,53.68227,0
+            -113.206588,53.68228,0
+            -113.206422,53.682292,0
+            -113.206257,53.682309,0
+            -113.206094,53.682328,0
+            -113.205931,53.682351,0
+            -113.205771,53.682377,0
+            -113.205611,53.682407,0
+            -113.205454,53.68244,0
+            -113.205299,53.682476,0
+            -113.205145,53.682516,0
+            -113.204995,53.682558,0
+            -113.204847,53.682604,0
+            -113.204701,53.682653,0
+            -113.204559,53.682704,0
+            -113.20442,53.682759,0
+            -113.204284,53.682816,0
+            -113.204151,53.682877,0
+            -113.204023,53.68294,0
+            -113.203897,53.683005,0
+            -113.20378,53.683069,0
+            -113.203659,53.68313,0
+            -113.203535,53.683189,0
+            -113.203407,53.683246,0
+            -113.203276,53.683299,0
+            -113.203142,53.68335,0
+            -113.203005,53.683399,0
+            -113.202866,53.683444,0
+            -113.202724,53.683487,0
+            -113.202579,53.683527,0
+            -113.202433,53.683564,0
+            -113.202284,53.683597,0
+            -113.202134,53.683628,0
+            -113.201982,53.683656,0
+            -113.201828,53.683681,0
+            -113.201673,53.683702,0
+            -113.201517,53.683721,0
+            -113.20136,53.683736,0
+            -113.201202,53.683748,0
+            -113.201044,53.683757,0
+            -113.200885,53.683763,0
+            -113.200726,53.683765,0
+            -113.200566,53.683765,0
+            -113.200407,53.683761,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.270267,53.672199,0
+            -113.263694,53.672148,0
+            -113.263652,53.672149,0
+            -113.26361,53.672151,0
+            -113.263568,53.672153,0
+            -113.263526,53.672157,0
+            -113.263484,53.672161,0
+            -113.263443,53.672166,0
+            -113.263402,53.672172,0
+            -113.263362,53.672179,0
+            -113.263321,53.672187,0
+            -113.263282,53.672196,0
+            -113.263243,53.672205,0
+            -113.263204,53.672215,0
+            -113.263166,53.672226,0
+            -113.263129,53.672238,0
+            -113.263092,53.67225,0
+            -113.263056,53.672264,0
+            -113.263021,53.672278,0
+            -113.262334,53.672635,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.216631,53.682231,0
+            -113.209184,53.68224,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.219099,53.706662,0
+            -113.214334,53.709496,0
+            -113.21426,53.709538,0
+            -113.214184,53.709579,0
+            -113.214105,53.709618,0
+            -113.214024,53.709656,0
+            -113.213941,53.709691,0
+            -113.213856,53.709725,0
+            -113.213769,53.709758,0
+            -113.213324,53.709914,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.200278,53.704461,0
+            -113.199449,53.704095,0
+            -113.199416,53.704083,0
+            -113.199382,53.704071,0
+            -113.199348,53.70406,0
+            -113.199313,53.70405,0
+            -113.199278,53.70404,0
+            -113.199242,53.704031,0
+            -113.199205,53.704023,0
+            -113.199168,53.704015,0
+            -113.199131,53.704009,0
+            -113.199093,53.704003,0
+            -113.199055,53.703997,0
+            -113.199017,53.703993,0
+            -113.198979,53.703989,0
+            -113.19894,53.703986,0
+            -113.198126,53.703981,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.182545,53.707123,0
+            -113.182454,53.711839,0
+            -113.17754,53.711856,0
+            -113.177529,53.711855,0
+            -113.177518,53.711855,0
+            -113.177507,53.711854,0
+            -113.177497,53.711854,0
+            -113.177486,53.711854,0
+            -113.177475,53.711854,0
+            -113.177464,53.711854,0
+            -113.177454,53.711855,0
+            -113.177443,53.711856,0
+            -113.177432,53.711857,0
+            -113.177422,53.711858,0
+            -113.177411,53.711859,0
+            -113.177401,53.711861,0
+            -113.17739,53.711863,0
+            -113.17738,53.711865,0
+            -113.17737,53.711867,0
+            -113.17736,53.71187,0
+            -113.177351,53.711873,0
+            -113.177341,53.711876,0
+            -113.177332,53.711879,0
+            -113.177322,53.711882,0
+            -113.177313,53.711886,0
+            -113.177305,53.711889,0
+            -113.177296,53.711893,0
+            -113.177288,53.711897,0
+            -113.177279,53.711901,0
+            -113.177272,53.711906,0
+            -113.177264,53.71191,0
+            -113.177257,53.711915,0
+            -113.17725,53.71192,0
+            -113.177243,53.711925,0
+            -113.177236,53.71193,0
+            -113.17723,53.711935,0
+            -113.177225,53.711941,0
+            -113.177219,53.711946,0
+            -113.177214,53.711952,0
+            -113.177209,53.711957,0
+            -113.177204,53.711963,0
+            -113.1772,53.711969,0
+            -113.177196,53.711975,0
+            -113.177193,53.711981,0
+            -113.17719,53.711987,0
+            -113.177187,53.711994,0
+            -113.177185,53.712,0
+            -113.177183,53.712006,0
+            -113.177181,53.712012,0
+            -113.17718,53.712019,0
+            -113.177179,53.712025,0
+            -113.177178,53.712032,0
+            -113.177178,53.712038,0
+            -113.177179,53.712044,0
+            -113.177133,53.714355,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.180262,53.704762,0
+            -113.180268,53.706882,0
+            -113.180268,53.706887,0
+            -113.180268,53.706893,0
+            -113.180268,53.706898,0
+            -113.180269,53.706903,0
+            -113.18027,53.706909,0
+            -113.180271,53.706914,0
+            -113.180273,53.706919,0
+            -113.180275,53.706925,0
+            -113.180277,53.70693,0
+            -113.180279,53.706935,0
+            -113.180282,53.70694,0
+            -113.180285,53.706945,0
+            -113.180289,53.70695,0
+            -113.180292,53.706955,0
+            -113.180296,53.70696,0
+            -113.180301,53.706965,0
+            -113.180305,53.70697,0
+            -113.18031,53.706974,0
+            -113.180315,53.706979,0
+            -113.18032,53.706983,0
+            -113.180326,53.706988,0
+            -113.180332,53.706992,0
+            -113.180338,53.706996,0
+            -113.180344,53.707,0
+            -113.180351,53.707003,0
+            -113.180357,53.707007,0
+            -113.180364,53.707011,0
+            -113.180371,53.707014,0
+            -113.180379,53.707017,0
+            -113.180386,53.70702,0
+            -113.180394,53.707023,0
+            -113.180402,53.707026,0
+            -113.18041,53.707029,0
+            -113.180418,53.707031,0
+            -113.180426,53.707033,0
+            -113.180435,53.707035,0
+            -113.180443,53.707037,0
+            -113.180452,53.707039,0
+            -113.18046,53.70704,0
+            -113.180469,53.707042,0
+            -113.180478,53.707043,0
+            -113.180487,53.707044,0
+            -113.180496,53.707045,0
+            -113.180505,53.707046,0
+            -113.180514,53.707046,0
+            -113.185314,53.707026,0
+            -113.185358,53.707023,0
+            -113.185402,53.707019,0
+            -113.185446,53.707014,0
+            -113.185489,53.707008,0
+            -113.185532,53.707001,0
+            -113.185575,53.706994,0
+            -113.185617,53.706985,0
+            -113.185659,53.706976,0
+            -113.1857,53.706966,0
+            -113.18574,53.706955,0
+            -113.18578,53.706943,0
+            -113.185819,53.706931,0
+            -113.185857,53.706918,0
+            -113.185895,53.706903,0
+            -113.185931,53.706889,0
+            -113.185967,53.706873,0
+            -113.186002,53.706857,0
+            -113.186036,53.70684,0
+            -113.186069,53.706822,0
+            -113.186101,53.706804,0
+            -113.186132,53.706785,0
+            -113.186161,53.706765,0
+            -113.18619,53.706745,0
+            -113.186217,53.706724,0
+            -113.186243,53.706703,0
+            -113.188191,53.705369,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.180047,53.704639,0
+            -113.178107,53.704626,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.213193,53.693032,0
+            -113.212526,53.693156,0
+            -113.21235,53.693189,0
+            -113.212175,53.693227,0
+            -113.212004,53.693267,0
+            -113.211834,53.693311,0
+            -113.211667,53.693359,0
+            -113.211503,53.69341,0
+            -113.211392,53.693442,0
+            -113.211282,53.693477,0
+            -113.211175,53.693513,0
+            -113.211069,53.693552,0
+            -113.210966,53.693593,0
+            -113.210865,53.693636,0
+            -113.210767,53.69368,0
+            -113.210671,53.693727,0
+            -113.210449,53.693842,0
+            -113.210233,53.693962,0
+            -113.210023,53.694085,0
+            -113.209819,53.694212,0
+            -113.209741,53.694269,0
+            -113.209666,53.694327,0
+            -113.209594,53.694387,0
+            -113.209526,53.694447,0
+            -113.20946,53.694509,0
+            -113.209398,53.694573,0
+            -113.20934,53.694637,0
+            -113.209284,53.694702,0
+            -113.20896,53.695049,0
+            -113.208658,53.695403,0
+            -113.208214,53.695943,0
+            -113.208124,53.696058,0
+            -113.208029,53.696173,0
+            -113.207927,53.696285,0
+            -113.207821,53.696396,0
+            -113.207709,53.696504,0
+            -113.207629,53.696578,0
+            -113.207546,53.69665,0
+            -113.207458,53.696721,0
+            -113.207367,53.69679,0
+            -113.207272,53.696856,0
+            -113.207173,53.696921,0
+            -113.207071,53.696984,0
+            -113.206965,53.697045,0
+            -113.206855,53.697104,0
+            -113.206741,53.697161,0
+            -113.206624,53.697217,0
+            -113.206503,53.69727,0
+            -113.20638,53.697321,0
+            -113.206254,53.697369,0
+            -113.206126,53.697415,0
+            -113.205995,53.697459,0
+            -113.205862,53.6975,0
+            -113.205726,53.697539,0
+            -113.205472,53.697599,0
+            -113.205214,53.697654,0
+            -113.204952,53.697703,0
+            -113.204689,53.697747,0
+            -113.203266,53.69801,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.218071,53.691615,0
+            -113.216491,53.692309,0
+            -113.216296,53.692386,0
+            -113.216096,53.69246,0
+            -113.215892,53.692529,0
+            -113.215684,53.692594,0
+            -113.215473,53.692655,0
+            -113.215258,53.692711,0
+            -113.21504,53.692762,0
+            -113.21479,53.692815,0
+            -113.214537,53.692863,0
+            -113.214281,53.692906,0
+            -113.214023,53.692943,0
+            -113.213763,53.692976,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.219373,53.706496,0
+            -113.221988,53.705055,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.22879,53.700965,0
+            -113.222262,53.70487,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.183756,53.70462,0
+            -113.180504,53.704642,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.20498,53.701128,0
+            -113.204894,53.701058,0
+            -113.204812,53.700986,0
+            -113.204735,53.700913,0
+            -113.204661,53.700838,0
+            -113.204592,53.700761,0
+            -113.204528,53.700684,0
+            -113.204468,53.700605,0
+            -113.204412,53.700525,0
+            -113.204361,53.700443,0
+            -113.204314,53.700361,0
+            -113.204273,53.700278,0
+            -113.204236,53.700194,0
+            -113.204203,53.70011,0
+            -113.204107,53.699874,0
+            -113.204021,53.699637,0
+            -113.203948,53.699399,0
+            -113.203886,53.699159,0
+            -113.203828,53.699043,0
+            -113.203765,53.698928,0
+            -113.203695,53.698814,0
+            -113.203619,53.698702,0
+            -113.203537,53.698591,0
+            -113.203449,53.698482,0
+            -113.203355,53.698374,0
+            -113.203255,53.698269,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.228887,53.700777,0
+            -113.227704,53.7001,0
+            -113.227664,53.700081,0
+            -113.227624,53.700063,0
+            -113.227582,53.700046,0
+            -113.22754,53.70003,0
+            -113.227497,53.700015,0
+            -113.227452,53.7,0
+            -113.227408,53.699987,0
+            -113.227362,53.699974,0
+            -113.227315,53.699963,0
+            -113.227268,53.699952,0
+            -113.227221,53.699942,0
+            -113.227172,53.699934,0
+            -113.227124,53.699926,0
+            -113.227075,53.699919,0
+            -113.227025,53.699914,0
+            -113.226975,53.699909,0
+            -113.226925,53.699905,0
+            -113.226875,53.699902,0
+            -113.226825,53.699901,0
+            -113.226775,53.6999,0
+            -113.226724,53.699901,0
+            -113.226674,53.699902,0
+            -113.226624,53.699904,0
+            -113.226574,53.699908,0
+            -113.226524,53.699912,0
+            -113.226474,53.699918,0
+            -113.226425,53.699924,0
+            -113.226376,53.699932,0
+            -113.226328,53.69994,0
+            -113.22628,53.69995,0
+            -113.226233,53.69996,0
+            -113.225066,53.700108,0
+            -113.224964,53.700118,0
+            -113.224861,53.700124,0
+            -113.224758,53.700129,0
+            -113.224655,53.700132,0
+            -113.224551,53.700133,0
+            -113.224448,53.700132,0
+            -113.224345,53.700128,0
+            -113.224242,53.700123,0
+            -113.224139,53.700115,0
+            -113.224037,53.700106,0
+            -113.223936,53.700094,0
+            -113.223835,53.70008,0
+            -113.223735,53.700065,0
+            -113.223636,53.700047,0
+            -113.223538,53.700027,0
+            -113.223442,53.700006,0
+            -113.223346,53.699982,0
+            -113.223252,53.699957,0
+            -113.22316,53.699929,0
+            -113.223069,53.6999,0
+            -113.22298,53.699869,0
+            -113.222892,53.699836,0
+            -113.222807,53.699802,0
+            -113.222723,53.699765,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.225815,53.701455,0
+            -113.225776,53.701427,0
+            -113.225739,53.701399,0
+            -113.225703,53.701369,0
+            -113.225669,53.70134,0
+            -113.225637,53.701309,0
+            -113.225606,53.701278,0
+            -113.225578,53.701246,0
+            -113.225551,53.701214,0
+            -113.225526,53.701181,0
+            -113.225503,53.701147,0
+            -113.225483,53.701113,0
+            -113.225464,53.701079,0
+            -113.225447,53.701044,0
+            -113.225432,53.701009,0
+            -113.22542,53.700974,0
+            -113.225409,53.700939,0
+            -113.2254,53.700903,0
+            -113.225394,53.700867,0
+            -113.22539,53.700831,0
+            -113.225388,53.700795,0
+            -113.225388,53.700759,0
+            -113.225397,53.700728,0
+            -113.225407,53.700698,0
+            -113.22542,53.700668,0
+            -113.225434,53.700638,0
+            -113.22545,53.700609,0
+            -113.225468,53.700579,0
+            -113.225487,53.700551,0
+            -113.225508,53.700522,0
+            -113.225531,53.700494,0
+            -113.225555,53.700467,0
+            -113.225581,53.70044,0
+            -113.225608,53.700413,0
+            -113.225637,53.700387,0
+            -113.225667,53.700362,0
+            -113.225699,53.700338,0
+            -113.225732,53.700314,0
+            -113.225767,53.70029,0
+            -113.225803,53.700268,0
+            -113.22584,53.700246,0
+            -113.225879,53.700225,0
+            -113.225918,53.700205,0
+            -113.225959,53.700186,0
+            -113.226001,53.700167,0
+            -113.226044,53.700149,0
+            -113.226088,53.700133,0
+            -113.22612,53.700118,0
+            -113.226153,53.700103,0
+            -113.226187,53.70009,0
+            -113.226221,53.700077,0
+            -113.226257,53.700065,0
+            -113.226293,53.700053,0
+            -113.226329,53.700043,0
+            -113.226367,53.700033,0
+            -113.226404,53.700023,0
+            -113.226443,53.700015,0
+            -113.226481,53.700007,0
+            -113.226521,53.700001,0
+            -113.22656,53.699995,0
+            -113.2266,53.699989,0
+            -113.22664,53.699985,0
+            -113.22668,53.699981,0
+            -113.226721,53.699979,0
+            -113.226762,53.699977,0
+            -113.226802,53.699976,0
+            -113.226843,53.699975,0
+            -113.226884,53.699976,0
+            -113.226925,53.699977,0
+            -113.226966,53.699979,0
+            -113.227006,53.699982,0
+            -113.227046,53.699986,0
+            -113.227086,53.699991,0
+            -113.227126,53.699997,0
+            -113.227166,53.700003,0
+            -113.227205,53.70001,0
+            -113.227243,53.700018,0
+            -113.227281,53.700027,0
+            -113.227319,53.700036,0
+            -113.227356,53.700046,0
+            -113.227392,53.700057,0
+            -113.227428,53.700069,0
+            -113.227463,53.700081,0
+            -113.227497,53.700094,0
+            -113.227531,53.700108,0
+            -113.227564,53.700123,0
+            -113.227595,53.700138,0
+            -113.227626,53.700154,0
+            -113.228793,53.700874,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.224265,53.700811,0
+            -113.224221,53.700791,0
+            -113.224175,53.700773,0
+            -113.224128,53.700755,0
+            -113.224081,53.700739,0
+            -113.224032,53.700723,0
+            -113.223983,53.700709,0
+            -113.223933,53.700695,0
+            -113.223882,53.700682,0
+            -113.22383,53.700671,0
+            -113.223778,53.700661,0
+            -113.223725,53.700651,0
+            -113.223672,53.700643,0
+            -113.223618,53.700636,0
+            -113.223564,53.70063,0
+            -113.223509,53.700625,0
+            -113.223454,53.700621,0
+            -113.223399,53.700618,0
+            -113.223344,53.700616,0
+            -113.223289,53.700616,0
+            -113.223234,53.700616,0
+            -113.223179,53.700618,0
+            -113.223124,53.700621,0
+            -113.223069,53.700625,0
+            -113.223015,53.70063,0
+            -113.222961,53.700636,0
+            -113.222907,53.700643,0
+            -113.222853,53.700652,0
+            -113.222801,53.700661,0
+            -113.222748,53.700672,0
+            -113.222697,53.700683,0
+            -113.222646,53.700696,0
+            -113.222596,53.700709,0
+            -113.222546,53.700724,0
+            -113.222498,53.70074,0
+            -113.22245,53.700756,0
+            -113.222404,53.700774,0
+            -113.222358,53.700792,0
+            -113.222314,53.700812,0
+            -113.222271,53.700832,0
+            -113.222228,53.700853,0
+            -113.222188,53.700875,0
+            -113.222148,53.700898,0
+            -113.221658,53.701234,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 50 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 50 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-00FFFF-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 50 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.197651,53.70399,0
+            -113.196449,53.703981,0
+            -113.196386,53.703979,0
+            -113.196323,53.703975,0
+            -113.196261,53.703969,0
+            -113.196199,53.703963,0
+            -113.196138,53.703955,0
+            -113.196077,53.703946,0
+            -113.196016,53.703936,0
+            -113.195956,53.703924,0
+            -113.195897,53.703911,0
+            -113.195839,53.703897,0
+            -113.195781,53.703882,0
+            -113.195724,53.703866,0
+            -113.195669,53.703849,0
+            -113.195614,53.70383,0
+            -113.19556,53.703811,0
+            -113.194604,53.703353,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>60 km/h Arterial</name>
+      <Placemark>
+        <name>SL - 60 kmh - F</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1</value>
+          </Data>
+          <Data name="COLOR">
+            <value>1</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>HIDDEN2</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.235841,53.675589,0
+            -113.236875,53.673873,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh - F</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1</value>
+          </Data>
+          <Data name="COLOR">
+            <value>1</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>HIDDEN2</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.23401,53.67849,0
+            -113.235641,53.675893,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh - F</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1</value>
+          </Data>
+          <Data name="COLOR">
+            <value>1</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>HIDDEN2</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.231956,53.681569,0
+            -113.232645,53.680623,0
+            -113.233282,53.679664,0
+            -113.233866,53.678693,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh - F</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1<br>COLOR: 1<br>LAYER: SL - 50 kmh<br>LINETYPE: HIDDEN2<br>LINEWEIGHT: -1<br>TRUECOLOR: 1]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1
+COLOR: 1
+LAYER: SL - 50 kmh
+LINETYPE: HIDDEN2
+LINEWEIGHT: -1
+TRUECOLOR: 1</value>
+          </Data>
+          <Data name="COLOR">
+            <value>1</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 50 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>HIDDEN2</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.243156,53.681216,0
+            -113.237445,53.679377,0
+            -113.234153,53.678634,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 80 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.151909,53.744746,0
+            -113.151803,53.744747,0
+            -113.151696,53.744751,0
+            -113.15159,53.744756,0
+            -113.151484,53.744764,0
+            -113.151379,53.744774,0
+            -113.151274,53.744786,0
+            -113.15117,53.7448,0
+            -113.151068,53.744816,0
+            -113.150966,53.744835,0
+            -113.150865,53.744855,0
+            -113.150765,53.744878,0
+            -113.150667,53.744902,0
+            -113.150571,53.744929,0
+            -113.150476,53.744958,0
+            -113.150382,53.744988,0
+            -113.150291,53.745021,0
+            -113.150202,53.745055,0
+            -113.150114,53.745092,0
+            -113.150029,53.74513,0
+            -113.149946,53.745169,0
+            -113.149866,53.745211,0
+            -113.149788,53.745254,0
+            -113.149713,53.745298,0
+            -113.14964,53.745345,0
+            -113.14957,53.745392,0
+            -113.149503,53.745441,0
+            -113.149439,53.745492,0
+            -113.149378,53.745544,0
+            -113.149319,53.745597,0
+            -113.149265,53.745651,0
+            -113.149213,53.745706,0
+            -113.149164,53.745762,0
+            -113.149119,53.745819,0
+            -113.149078,53.745878,0
+            -113.149039,53.745937,0
+            -113.149005,53.745996,0
+            -113.148974,53.746057,0
+            -113.148946,53.746118,0
+            -113.148922,53.746179,0
+            -113.148902,53.746241,0
+            -113.148885,53.746304,0
+            -113.148872,53.746366,0
+            -113.148863,53.746429,0
+            -113.148857,53.746492,0
+            -113.148855,53.746556,0
+            -113.148857,53.746619,0
+            -113.148862,53.746682,0
+            -113.148872,53.746745,0
+            -113.148885,53.746807,0
+            -113.148892,53.758569,0
+            -113.148901,53.772273,0
+            -113.148913,53.774066,0
+            -113.148913,53.774074,0
+            -113.148912,53.774081,0
+            -113.148911,53.774088,0
+            -113.14891,53.774096,0
+            -113.148908,53.774103,0
+            -113.148906,53.77411,0
+            -113.148903,53.774117,0
+            -113.1489,53.774124,0
+            -113.148897,53.774131,0
+            -113.148893,53.774138,0
+            -113.148889,53.774145,0
+            -113.148884,53.774152,0
+            -113.148879,53.774159,0
+            -113.148874,53.774166,0
+            -113.148868,53.774172,0
+            -113.148862,53.774178,0
+            -113.148855,53.774185,0
+            -113.148848,53.774191,0
+            -113.148841,53.774197,0
+            -113.148834,53.774203,0
+            -113.148826,53.774208,0
+            -113.148817,53.774214,0
+            -113.148809,53.774219,0
+            -113.1488,53.774224,0
+            -113.148791,53.774229,0
+            -113.148781,53.774234,0
+            -113.148772,53.774238,0
+            -113.148762,53.774243,0
+            -113.148752,53.774247,0
+            -113.148741,53.774251,0
+            -113.14873,53.774255,0
+            -113.14872,53.774258,0
+            -113.148708,53.774261,0
+            -113.148697,53.774265,0
+            -113.148686,53.774267,0
+            -113.148674,53.77427,0
+            -113.148662,53.774272,0
+            -113.148651,53.774275,0
+            -113.148639,53.774276,0
+            -113.148626,53.774278,0
+            -113.148614,53.774279,0
+            -113.148602,53.774281,0
+            -113.14859,53.774281,0
+            -113.148577,53.774282,0
+            -113.148565,53.774282,0
+            -113.148553,53.774283,0
+            -113.14854,53.774282,0
+            -113.148528,53.774282,0
+            -113.148515,53.774281,0
+            -113.148503,53.774281,0
+            -113.12424,53.774258,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 80 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.189349,53.738987,0
+            -113.189368,53.738923,0
+            -113.189384,53.738858,0
+            -113.189396,53.738794,0
+            -113.189404,53.738729,0
+            -113.189408,53.738664,0
+            -113.189409,53.738599,0
+            -113.189406,53.738534,0
+            -113.189399,53.738469,0
+            -113.189388,53.738404,0
+            -113.189374,53.73834,0
+            -113.189356,53.738276,0
+            -113.189334,53.738212,0
+            -113.189309,53.738148,0
+            -113.18928,53.738086,0
+            -113.189247,53.738024,0
+            -113.189211,53.737962,0
+            -113.189171,53.737902,0
+            -113.189128,53.737842,0
+            -113.189082,53.737783,0
+            -113.189032,53.737725,0
+            -113.188979,53.737668,0
+            -113.188922,53.737612,0
+            -113.176242,53.723697,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 80 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.17598,53.723385,0
+            -113.174441,53.721269,0
+            -113.174413,53.721225,0
+            -113.174382,53.721181,0
+            -113.174349,53.721137,0
+            -113.174313,53.721095,0
+            -113.174275,53.721053,0
+            -113.174234,53.721012,0
+            -113.174192,53.720971,0
+            -113.174146,53.720932,0
+            -113.174099,53.720894,0
+            -113.174049,53.720856,0
+            -113.173997,53.72082,0
+            -113.173943,53.720785,0
+            -113.173887,53.72075,0
+            -113.173829,53.720717,0
+            -113.173769,53.720686,0
+            -113.173707,53.720655,0
+            -113.173644,53.720626,0
+            -113.173579,53.720598,0
+            -113.173512,53.720571,0
+            -113.173444,53.720546,0
+            -113.173374,53.720522,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 80 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.189241,53.739259,0
+            -113.189193,53.739346,0
+            -113.18914,53.739433,0
+            -113.189083,53.739518,0
+            -113.189021,53.739602,0
+            -113.188954,53.739684,0
+            -113.188883,53.739766,0
+            -113.188808,53.739846,0
+            -113.188728,53.739924,0
+            -113.188644,53.740001,0
+            -113.188555,53.740076,0
+            -113.188463,53.74015,0
+            -113.188366,53.740221,0
+            -113.185679,53.742164,0
+            -113.183865,53.743293,0
+            -113.181987,53.744192,0
+            -113.179358,53.745179,0
+            -113.176436,53.746228,0
+            -113.174993,53.746747,0
+            -113.174905,53.746781,0
+            -113.174815,53.746814,0
+            -113.174724,53.746845,0
+            -113.17463,53.746874,0
+            -113.174535,53.746901,0
+            -113.174439,53.746925,0
+            -113.174341,53.746948,0
+            -113.174242,53.746969,0
+            -113.174141,53.746988,0
+            -113.17404,53.747005,0
+            -113.173938,53.74702,0
+            -113.173835,53.747033,0
+            -113.173731,53.747043,0
+            -113.173627,53.747052,0
+            -113.173522,53.747058,0
+            -113.173417,53.747062,0
+            -113.173312,53.747064,0
+            -113.173206,53.747064,0
+            -113.173101,53.747062,0
+            -113.172996,53.747058,0
+            -113.172891,53.747051,0
+            -113.172787,53.747042,0
+            -113.172683,53.747032,0
+            -113.17258,53.747019,0
+            -113.172478,53.747004,0
+            -113.172377,53.746987,0
+            -113.172277,53.746968,0
+            -113.172178,53.746946,0
+            -113.17208,53.746923,0
+            -113.171984,53.746898,0
+            -113.171889,53.746871,0
+            -113.171795,53.746842,0
+            -113.171704,53.746811,0
+            -113.171614,53.746778,0
+            -113.171527,53.746744,0
+            -113.171441,53.746707,0
+            -113.171358,53.746669,0
+            -113.171276,53.74663,0
+            -113.170944,53.746437,0
+            -113.170622,53.746239,0
+            -113.170309,53.746036,0
+            -113.169808,53.745683,0
+            -113.16972,53.74563,0
+            -113.169629,53.745578,0
+            -113.169535,53.745528,0
+            -113.169438,53.74548,0
+            -113.169339,53.745434,0
+            -113.169237,53.74539,0
+            -113.169133,53.745348,0
+            -113.169026,53.745309,0
+            -113.168917,53.745271,0
+            -113.168806,53.745236,0
+            -113.168693,53.745203,0
+            -113.168578,53.745172,0
+            -113.168462,53.745144,0
+            -113.168344,53.745118,0
+            -113.168224,53.745094,0
+            -113.168103,53.745073,0
+            -113.167981,53.745054,0
+            -113.167859,53.745038,0
+            -113.167735,53.745024,0
+            -113.16761,53.745013,0
+            -113.167485,53.745004,0
+            -113.167359,53.744998,0
+            -113.167234,53.744994,0
+            -113.167108,53.744993,0
+            -113.166982,53.744995,0
+            -113.166856,53.744999,0
+            -113.16673,53.745005,0
+            -113.162108,53.744936,0
+            -113.152797,53.744764,0
+            -113.151909,53.744746,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 80 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.170687,53.715908,0
+            -113.124384,53.715843,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 80 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 80 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 80 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.149091,53.715977,0
+            -113.149126,53.728188,0
+            -113.149131,53.728257,0
+            -113.149132,53.728327,0
+            -113.149129,53.728397,0
+            -113.149122,53.728467,0
+            -113.149112,53.728536,0
+            -113.149097,53.728606,0
+            -113.149078,53.728675,0
+            -113.149055,53.728743,0
+            -113.149029,53.728811,0
+            -113.148999,53.728879,0
+            -113.148965,53.728946,0
+            -113.148927,53.729012,0
+            -113.148885,53.729077,0
+            -113.14884,53.729142,0
+            -113.148791,53.729205,0
+            -113.148739,53.729268,0
+            -113.148683,53.729329,0
+            -113.148623,53.72939,0
+            -113.148561,53.729449,0
+            -113.14759,53.730274,0
+            -113.14752,53.730327,0
+            -113.147453,53.730382,0
+            -113.147389,53.730438,0
+            -113.147328,53.730495,0
+            -113.147271,53.730553,0
+            -113.147217,53.730613,0
+            -113.147166,53.730674,0
+            -113.147119,53.730735,0
+            -113.147076,53.730798,0
+            -113.147036,53.730861,0
+            -113.147,53.730926,0
+            -113.146968,53.73099,0
+            -113.146939,53.731056,0
+            -113.146915,53.731122,0
+            -113.146894,53.731189,0
+            -113.146877,53.731255,0
+            -113.146864,53.731323,0
+            -113.146855,53.73139,0
+            -113.146849,53.731458,0
+            -113.146848,53.731525,0
+            -113.14685,53.731593,0
+            -113.146857,53.73166,0
+            -113.146867,53.731728,0
+            -113.146882,53.731795,0
+            -113.1469,53.731862,0
+            -113.146922,53.731928,0
+            -113.146948,53.731994,0
+            -113.146977,53.732059,0
+            -113.147011,53.732124,0
+            -113.147048,53.732188,0
+            -113.147088,53.732251,0
+            -113.147133,53.732313,0
+            -113.147181,53.732375,0
+            -113.147232,53.732435,0
+            -113.147287,53.732494,0
+            -113.147346,53.732553,0
+            -113.147408,53.732609,0
+            -113.147473,53.732665,0
+            -113.147541,53.732719,0
+            -113.148122,53.733303,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.19432,53.703375,0
+            -113.190525,53.705991,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.216023,53.696219,0
+            -113.215844,53.696122,0
+            -113.21567,53.696021,0
+            -113.215503,53.695916,0
+            -113.215341,53.695808,0
+            -113.215186,53.695697,0
+            -113.215038,53.695583,0
+            -113.214897,53.695466,0
+            -113.214762,53.695346,0
+            -113.214634,53.695223,0
+            -113.214514,53.695098,0
+            -113.214401,53.69497,0
+            -113.214296,53.69484,0
+            -113.214198,53.694708,0
+            -113.214108,53.694574,0
+            -113.214026,53.694438,0
+            -113.21347,53.693232,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.213391,53.692928,0
+            -113.213003,53.692149,0
+            -113.212855,53.691888,0
+            -113.212693,53.691631,0
+            -113.212518,53.691376,0
+            -113.212329,53.691125,0
+            -113.212181,53.690902,0
+            -113.21202,53.690682,0
+            -113.211881,53.690494,0
+            -113.211733,53.690309,0
+            -113.211576,53.690127,0
+            -113.211199,53.689672,0
+            -113.210972,53.689408,0
+            -113.210758,53.689141,0
+            -113.210554,53.688869,0
+            -113.210363,53.688593,0
+            -113.210233,53.6884,0
+            -113.210113,53.688205,0
+            -113.210002,53.688007,0
+            -113.209901,53.687808,0
+            -113.209799,53.687616,0
+            -113.209705,53.687422,0
+            -113.209621,53.687226,0
+            -113.209545,53.68703,0
+            -113.209403,53.686632,0
+            -113.209275,53.686234,0
+            -113.209204,53.685912,0
+            -113.209146,53.68559,0
+            -113.209108,53.685295,0
+            -113.209082,53.684999,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.197661,53.700653,0
+            -113.197573,53.700701,0
+            -113.197487,53.700751,0
+            -113.197405,53.700802,0
+            -113.197326,53.700855,0
+            -113.19725,53.70091,0
+            -113.197177,53.700967,0
+            -113.197107,53.701025,0
+            -113.197042,53.701084,0
+            -113.196973,53.701156,0
+            -113.196909,53.70123,0
+            -113.196849,53.701305,0
+            -113.196794,53.701381,0
+            -113.196743,53.701458,0
+            -113.196697,53.701536,0
+            -113.196655,53.701615,0
+            -113.196621,53.701665,0
+            -113.196584,53.701713,0
+            -113.196544,53.701761,0
+            -113.196501,53.701809,0
+            -113.196456,53.701855,0
+            -113.196408,53.7019,0
+            -113.196358,53.701945,0
+            -113.196305,53.701988,0
+            -113.196249,53.70203,0
+            -113.196191,53.702071,0
+            -113.196131,53.702111,0
+            -113.19451,53.703227,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.199865,53.699366,0
+            -113.199596,53.699517,0
+            -113.199335,53.699672,0
+            -113.198545,53.700139,0
+            -113.197918,53.700499,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.193856,53.707651,0
+            -113.190532,53.706208,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.195583,53.708393,0
+            -113.194174,53.707787,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.204499,53.712966,0
+            -113.204395,53.713009,0
+            -113.204288,53.713051,0
+            -113.20418,53.71309,0
+            -113.204069,53.713127,0
+            -113.203956,53.713162,0
+            -113.203841,53.713194,0
+            -113.203724,53.713224,0
+            -113.203606,53.713252,0
+            -113.203486,53.713277,0
+            -113.203364,53.7133,0
+            -113.203242,53.713321,0
+            -113.203118,53.713339,0
+            -113.202994,53.713354,0
+            -113.202868,53.713367,0
+            -113.202742,53.713378,0
+            -113.202615,53.713386,0
+            -113.202488,53.713391,0
+            -113.202361,53.713394,0
+            -113.202234,53.713394,0
+            -113.202107,53.713392,0
+            -113.20198,53.713387,0
+            -113.201853,53.713379,0
+            -113.201727,53.713369,0
+            -113.201619,53.713353,0
+            -113.201513,53.713335,0
+            -113.201407,53.713314,0
+            -113.201303,53.713292,0
+            -113.2012,53.713267,0
+            -113.201099,53.713241,0
+            -113.200999,53.713212,0
+            -113.2009,53.713182,0
+            -113.200804,53.713149,0
+            -113.200709,53.713115,0
+            -113.200617,53.713078,0
+            -113.200526,53.71304,0
+            -113.200438,53.713,0
+            -113.200352,53.712958,0
+            -113.200269,53.712915,0
+            -113.200188,53.71287,0
+            -113.19856,53.711854,0
+            -113.198454,53.711786,0
+            -113.198351,53.711716,0
+            -113.198252,53.711645,0
+            -113.198157,53.711571,0
+            -113.198067,53.711495,0
+            -113.197981,53.711418,0
+            -113.1979,53.711339,0
+            -113.197823,53.711258,0
+            -113.197751,53.711176,0
+            -113.197683,53.711093,0
+            -113.197621,53.711008,0
+            -113.197563,53.710922,0
+            -113.19751,53.710835,0
+            -113.197463,53.710747,0
+            -113.19742,53.710658,0
+            -113.197365,53.710498,0
+            -113.197317,53.710338,0
+            -113.197277,53.710177,0
+            -113.197245,53.710016,0
+            -113.197222,53.709854,0
+            -113.197221,53.709816,0
+            -113.197218,53.709779,0
+            -113.197212,53.709741,0
+            -113.197205,53.709704,0
+            -113.197195,53.709667,0
+            -113.197184,53.70963,0
+            -113.19717,53.709593,0
+            -113.197154,53.709557,0
+            -113.197136,53.709521,0
+            -113.197116,53.709485,0
+            -113.197095,53.70945,0
+            -113.197071,53.709415,0
+            -113.197045,53.709381,0
+            -113.197017,53.709347,0
+            -113.196987,53.709314,0
+            -113.196955,53.709281,0
+            -113.196922,53.709249,0
+            -113.196887,53.709218,0
+            -113.19685,53.709188,0
+            -113.196811,53.709158,0
+            -113.196729,53.70909,0
+            -113.196644,53.709023,0
+            -113.196555,53.708957,0
+            -113.196463,53.708894,0
+            -113.196367,53.708832,0
+            -113.196269,53.708772,0
+            -113.196167,53.708714,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.230722,53.683705,0
+            -113.231893,53.681758,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.230499,53.684084,0
+            -113.230216,53.684473,0
+            -113.229957,53.684868,0
+            -113.229868,53.685044,0
+            -113.229788,53.685222,0
+            -113.229719,53.685401,0
+            -113.22966,53.685582,0
+            -113.22961,53.685763,0
+            -113.229574,53.685866,0
+            -113.229532,53.685968,0
+            -113.229485,53.686068,0
+            -113.229431,53.686168,0
+            -113.229372,53.686267,0
+            -113.229308,53.686365,0
+            -113.229237,53.686461,0
+            -113.229162,53.686556,0
+            -113.229081,53.686649,0
+            -113.228995,53.68674,0
+            -113.228904,53.68683,0
+            -113.228807,53.686918,0
+            -113.228706,53.687004,0
+            -113.2286,53.687088,0
+            -113.228489,53.68717,0
+            -113.228374,53.687249,0
+            -113.228254,53.687326,0
+            -113.22813,53.687401,0
+            -113.228002,53.687473,0
+            -113.22787,53.687542,0
+            -113.227734,53.687609,0
+            -113.227594,53.687673,0
+            -113.22745,53.687734,0
+            -113.225912,53.688389,0
+            -113.225711,53.688475,0
+            -113.225506,53.688558,0
+            -113.225297,53.688637,0
+            -113.225084,53.688711,0
+            -113.224867,53.688782,0
+            -113.224646,53.688848,0
+            -113.224421,53.688911,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.250105,53.682706,0
+            -113.249897,53.682717,0
+            -113.249689,53.682723,0
+            -113.24948,53.682726,0
+            -113.249272,53.682725,0
+            -113.249063,53.68272,0
+            -113.248855,53.68271,0
+            -113.248648,53.682697,0
+            -113.248442,53.68268,0
+            -113.248236,53.682658,0
+            -113.248032,53.682633,0
+            -113.247829,53.682603,0
+            -113.247629,53.682569,0
+            -113.24743,53.682531,0
+            -113.247233,53.682489,0
+            -113.247038,53.682444,0
+            -113.246847,53.682395,0
+            -113.246657,53.682342,0
+            -113.246471,53.682286,0
+            -113.246288,53.682227,0
+            -113.246108,53.682163,0
+            -113.243854,53.681415,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.24513,53.674285,0
+            -113.243755,53.674275,0
+            -113.24238,53.674293,0
+            -113.241887,53.674303,0
+            -113.241394,53.674304,0
+            -113.240901,53.674296,0
+            -113.240581,53.674271,0
+            -113.240263,53.67424,0
+            -113.239947,53.674202,0
+            -113.239633,53.674159,0
+            -113.239322,53.674109,0
+            -113.239013,53.674053,0
+            -113.238708,53.673992,0
+            -113.238407,53.673924,0
+            -113.237272,53.673683,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.223973,53.689002,0
+            -113.223677,53.689085,0
+            -113.223386,53.689173,0
+            -113.223099,53.689267,0
+            -113.222818,53.689365,0
+            -113.222234,53.689599,0
+            -113.22166,53.68984,0
+            -113.221022,53.690171,0
+            -113.220403,53.690514,0
+            -113.220087,53.690728,0
+            -113.219761,53.690938,0
+            -113.219427,53.691143,0
+            -113.219263,53.691228,0
+            -113.219094,53.69131,0
+            -113.218921,53.691389,0
+            -113.218744,53.691465,0
+            -113.218564,53.691538,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.249709,53.674164,0
+            -113.249457,53.674214,0
+            -113.249201,53.674259,0
+            -113.248944,53.674299,0
+            -113.248684,53.674333,0
+            -113.248422,53.674363,0
+            -113.248159,53.674387,0
+            -113.247894,53.674406,0
+            -113.247629,53.67442,0
+            -113.247363,53.674428,0
+            -113.247097,53.674431,0
+            -113.24683,53.674429,0
+            -113.246564,53.674421,0
+            -113.246071,53.674412,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.262111,53.672671,0
+            -113.261985,53.672642,0
+            -113.261856,53.672615,0
+            -113.261727,53.672591,0
+            -113.261596,53.672569,0
+            -113.261464,53.672549,0
+            -113.261332,53.672532,0
+            -113.261198,53.672518,0
+            -113.261064,53.672506,0
+            -113.260929,53.672496,0
+            -113.256564,53.672476,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.250227,53.673987,0
+            -113.251231,53.673724,0
+            -113.252219,53.673439,0
+            -113.254373,53.672781,0
+            -113.254504,53.672741,0
+            -113.254638,53.672704,0
+            -113.254774,53.672669,0
+            -113.254911,53.672638,0
+            -113.25505,53.672609,0
+            -113.255191,53.672582,0
+            -113.255334,53.672559,0
+            -113.255477,53.672539,0
+            -113.255622,53.672521,0
+            -113.255767,53.672506,0
+            -113.255913,53.672494,0
+            -113.25606,53.672486,0
+            -113.256207,53.67248,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.17698,53.714455,0
+            -113.174799,53.714446,0
+            -113.174756,53.714446,0
+            -113.174713,53.714446,0
+            -113.17467,53.714447,0
+            -113.174627,53.714449,0
+            -113.174584,53.714452,0
+            -113.174542,53.714456,0
+            -113.174499,53.714461,0
+            -113.174457,53.714466,0
+            -113.174416,53.714472,0
+            -113.174375,53.71448,0
+            -113.174334,53.714488,0
+            -113.174293,53.714497,0
+            -113.174254,53.714506,0
+            -113.174215,53.714517,0
+            -113.174176,53.714528,0
+            -113.174138,53.71454,0
+            -113.174101,53.714553,0
+            -113.174065,53.714567,0
+            -113.174029,53.714581,0
+            -113.173994,53.714596,0
+            -113.173961,53.714612,0
+            -113.173928,53.714628,0
+            -113.173896,53.714646,0
+            -113.173865,53.714663,0
+            -113.173835,53.714682,0
+            -113.173807,53.714701,0
+            -113.173779,53.71472,0
+            -113.173753,53.71474,0
+            -113.173728,53.714761,0
+            -113.173704,53.714782,0
+            -113.173681,53.714804,0
+            -113.17366,53.714826,0
+            -113.173639,53.714849,0
+            -113.173621,53.714871,0
+            -113.173603,53.714895,0
+            -113.173587,53.714918,0
+            -113.173572,53.714942,0
+            -113.173559,53.714967,0
+            -113.173321,53.715473,0
+            -113.173307,53.715494,0
+            -113.173291,53.715515,0
+            -113.173274,53.715536,0
+            -113.173257,53.715557,0
+            -113.173238,53.715577,0
+            -113.173217,53.715596,0
+            -113.173196,53.715615,0
+            -113.173174,53.715634,0
+            -113.17315,53.715652,0
+            -113.173126,53.71567,0
+            -113.1731,53.715687,0
+            -113.173073,53.715704,0
+            -113.173046,53.71572,0
+            -113.173018,53.715736,0
+            -113.172988,53.715751,0
+            -113.172958,53.715766,0
+            -113.172927,53.715779,0
+            -113.172896,53.715793,0
+            -113.172863,53.715805,0
+            -113.17283,53.715817,0
+            -113.172796,53.715828,0
+            -113.172762,53.715839,0
+            -113.172727,53.715849,0
+            -113.172691,53.715858,0
+            -113.172655,53.715866,0
+            -113.172618,53.715874,0
+            -113.172582,53.715881,0
+            -113.172544,53.715887,0
+            -113.172507,53.715892,0
+            -113.172469,53.715897,0
+            -113.17243,53.715901,0
+            -113.172392,53.715904,0
+            -113.172353,53.715906,0
+            -113.172315,53.715908,0
+            -113.172276,53.715908,0
+            -113.172237,53.715908,0
+            -113.172199,53.715907,0
+            -113.170687,53.715908,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.223877,53.688917,0
+            -113.223581,53.689,0
+            -113.22329,53.689089,0
+            -113.223004,53.689182,0
+            -113.222722,53.689281,0
+            -113.222138,53.689514,0
+            -113.221564,53.689755,0
+            -113.220927,53.690086,0
+            -113.220307,53.690429,0
+            -113.219991,53.690643,0
+            -113.219666,53.690853,0
+            -113.219332,53.691058,0
+            -113.219167,53.691143,0
+            -113.218998,53.691225,0
+            -113.218825,53.691304,0
+            -113.218648,53.69138,0
+            -113.218468,53.691453,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.230302,53.684035,0
+            -113.229854,53.68475,0
+            -113.229765,53.684926,0
+            -113.229685,53.685104,0
+            -113.229616,53.685283,0
+            -113.229556,53.685464,0
+            -113.229507,53.685645,0
+            -113.229471,53.685748,0
+            -113.229429,53.685849,0
+            -113.229382,53.68595,0
+            -113.229328,53.68605,0
+            -113.229269,53.686149,0
+            -113.229204,53.686247,0
+            -113.229134,53.686343,0
+            -113.229059,53.686438,0
+            -113.228978,53.686531,0
+            -113.228892,53.686622,0
+            -113.228801,53.686712,0
+            -113.228704,53.6868,0
+            -113.228603,53.686886,0
+            -113.228497,53.68697,0
+            -113.228386,53.687051,0
+            -113.228271,53.687131,0
+            -113.228151,53.687208,0
+            -113.228027,53.687283,0
+            -113.227899,53.687355,0
+            -113.227767,53.687424,0
+            -113.227631,53.687491,0
+            -113.227491,53.687555,0
+            -113.227347,53.687616,0
+            -113.225809,53.688271,0
+            -113.225608,53.688357,0
+            -113.225403,53.68844,0
+            -113.225194,53.688518,0
+            -113.224981,53.688593,0
+            -113.224764,53.688664,0
+            -113.224543,53.68873,0
+            -113.224318,53.688793,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.249712,53.674031,0
+            -113.249459,53.674081,0
+            -113.249204,53.674126,0
+            -113.248946,53.674166,0
+            -113.248686,53.674201,0
+            -113.248424,53.67423,0
+            -113.248161,53.674254,0
+            -113.247897,53.674273,0
+            -113.247631,53.674287,0
+            -113.247365,53.674295,0
+            -113.247099,53.674298,0
+            -113.246833,53.674296,0
+            -113.246567,53.674288,0
+            -113.246074,53.674279,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.245065,53.674401,0
+            -113.24369,53.674391,0
+            -113.242316,53.674409,0
+            -113.241823,53.67442,0
+            -113.241329,53.67442,0
+            -113.240836,53.674412,0
+            -113.240517,53.674387,0
+            -113.240198,53.674356,0
+            -113.239882,53.674318,0
+            -113.239568,53.674275,0
+            -113.239257,53.674225,0
+            -113.238948,53.67417,0
+            -113.238643,53.674108,0
+            -113.238342,53.67404,0
+            -113.237207,53.673799,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.20906,53.682394,0
+            -113.209081,53.684756,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.21621,53.69613,0
+            -113.21605,53.696049,0
+            -113.215896,53.695965,0
+            -113.215746,53.695878,0
+            -113.215601,53.695788,0
+            -113.215461,53.695696,0
+            -113.215327,53.6956,0
+            -113.215198,53.695502,0
+            -113.215075,53.695401,0
+            -113.214957,53.695298,0
+            -113.214846,53.695193,0
+            -113.214741,53.695085,0
+            -113.214642,53.694976,0
+            -113.214549,53.694864,0
+            -113.214463,53.694751,0
+            -113.214383,53.694636,0
+            -113.21431,53.694519,0
+            -113.214244,53.694401,0
+            -113.213656,53.693195,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.230544,53.683668,0
+            -113.231715,53.681721,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>SL - 60 kmh</name>
+        <description><![CDATA[description: description: description: <br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256<br>COLOR: 256<br>LAYER: SL - 60 kmh<br>LINETYPE: ByLayer<br>LINEWEIGHT: -1<br>TRUECOLOR: 256]]></description>
+        <styleUrl>#line-FF0000-5000</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: description: 
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256
+COLOR: 256
+LAYER: SL - 60 kmh
+LINETYPE: ByLayer
+LINEWEIGHT: -1
+TRUECOLOR: 256</value>
+          </Data>
+          <Data name="COLOR">
+            <value>256</value>
+          </Data>
+          <Data name="LAYER">
+            <value>SL - 60 kmh</value>
+          </Data>
+          <Data name="LINETYPE">
+            <value>ByLayer</value>
+          </Data>
+          <Data name="LINEWEIGHT">
+            <value>-1</value>
+          </Data>
+          <Data name="TRUECOLOR">
+            <value>256</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -113.23585,53.685967,0
+            -113.235053,53.685429,0
+            -113.234908,53.685337,0
+            -113.234757,53.685249,0
+            -113.234601,53.685163,0
+            -113.234441,53.685081,0
+            -113.234275,53.685003,0
+            -113.234105,53.684927,0
+            -113.233791,53.684819,0
+            -113.233472,53.684717,0
+            -113.233148,53.68462,0
+            -113.230821,53.683917,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
